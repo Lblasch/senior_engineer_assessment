@@ -1,0 +1,10 @@
+Run the following commands from the 'C:\Python27\Scripts' directory on your machine:
+
+ pip install pyodbc  
+ pip install xlrd
+ pip install datetime
+
+Update the two directory paths (conn, file_path) at the top of the python script to point to your excel spreadsheet and database server.
+
+This should be run after the sql queries to create the PersonDatabase database for the SQL questions.
+

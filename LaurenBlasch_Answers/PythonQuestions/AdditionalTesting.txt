@@ -1,0 +1,5 @@
+I completed the following steps in addition to using print statements in the script.
+
+- Updated the excel spreadsheet file name to have many different provider groups and dates to make sure they were being parsed correctly.
+- Added new data to the spreadsheet to make sure the sex, middle name and various columns were being imported correctly. Additionally added new rows to test that the bottom was being cut off correctly.
+- Queried the total number of rows in Staging_RiskbyQuarter with RiskIncreased = 'Yes' in pivoted table and made sure it was equal to the total number of rows in RiskByQuarter table multiplied by * 2.
